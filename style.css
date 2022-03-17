@@ -1,0 +1,36 @@
+body {
+  height: 100vh;
+
+  background: url("img/images1.jpg");
+  /* background-color: #070705; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  margin: auto;
+
+  text-align: center;
+}
+
+h1 {
+  color: #c1c0ae;
+  text-align: center;
+}
+
+#res {
+  text-align: auto;
+  margin: auto;
+  color: #c1c0ae;
+  padding: auto;
+
+}
+
+#button {
+  border-radius: 5px;
+  border: 1px solid #c1c0ae;
+}
